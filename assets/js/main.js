@@ -43,6 +43,7 @@
 	// Nav.
 
 		// Title Bar.
+		/*
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
@@ -50,8 +51,10 @@
 				'</div>'
 			)
 				.appendTo($body);
+		*/
 
 		// Panel.
+		/*
 			$(
 				'<div id="navPanel">' +
 					'<nav>' +
@@ -70,6 +73,7 @@
 					target: $body,
 					visibleClass: 'navPanel-visible'
 				});
+		*/
 
 	// Parallax.
 	// Disabled on IE (choppy scrolling) and mobile platforms (poor performance).
